@@ -1,6 +1,7 @@
 # Gabrielmario Tavini
 
 **Automation & Robotics Engineer** · control theory, autonomous systems, embedded
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-E16737?style=flat-square) ![Simulink](https://img.shields.io/badge/Simulink-D45B07?style=flat-square) ![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=flat-square&logo=siemens&logoColor=white)
 
 MSc Automation Engineering candidate at the University of Bologna, currently a systems engineering intern at Rheinmetall Air Defence AG in Zurich, working on safety-critical precision engineering: physics-based predictive models, dynamic modelling from first principles, and precision test systems.
 
