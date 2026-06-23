@@ -16,7 +16,7 @@ I work across the full stack of a moving machine: the control law, the autonomy 
 
 ### Featured projects
 - **Autonomous Mobile Manipulation (TIAGo, ROS2/Gazebo)** — full pipeline from SLAM mapping to ArUco-driven pick-and-place, every pose discovered at runtime, no hardcoded positions. [repo](https://github.com/robotics-and-control/autonomous-robotics-pipeline)
-- **Optimal control of an underactuated double pendulum** — LQR and MPC in Python, RK4 discretisation, under 0.01% steady-state error. [repo](https://github.com/gabrielmario-tavini/underactuated-robot-py-public)
+- **Optimal control of an underactuated double pendulum** — LQR and MPC in Python, RK4 discretisation, under 0.01% steady-state error. [repo](https://github.com/robotics-and-control/underactuated-2dof-robot)
 - **One-shot object detection (OpenCV)** — 90% detection rate from a single training image per class, under heavy distractors. [repo](https://github.com/gabrielmario-tavini/object-detection-py-public)
 - **Real-time vibration detection (STM32 + LSM6DSOX)** — 104Hz IMU sampling, CMSIS-DSP FIR filter, RMS envelope, threshold-driven LED actuation, deployed on real hardware. [repo](https://github.com/gabrielmario-tavini/stm32-vibration-and-accelerometer-public)
 
